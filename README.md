@@ -1,7 +1,7 @@
 
 # Resume-site
 
-a webpage which showcase myskills projects about me .
+a webpage which showcase myskills projects and about me .
 
 
 
@@ -15,7 +15,7 @@ a webpage which showcase myskills projects about me .
 ## Features
 
 - contact form
--neumorphic design
+- neumorphic design
 - animations
 - responsive
 
