@@ -29,9 +29,6 @@ Install project with git
 ```
     
 ## Screenshots
-x-special/nautilus-clipboard
-copy
-file:///home/iauro/Pictures/Screenshot%20from%202021-09-05%2014-57-47.png
-
+![image](file:///home/iauro/Pictures/Screenshot%20from%202021-09-05%2014-57-47.png)
 
   
