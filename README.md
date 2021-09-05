@@ -29,6 +29,8 @@ Install project with git
 ```
     
 ## Screenshots
-![image](file:///home/iauro/Pictures/Screenshot%20from%202021-09-05%2014-57-47.png)
+![Screenshot from 2021-09-05 14-57-47](https://user-images.githubusercontent.com/51418366/132122523-01a1d953-f2de-48ca-b773-5da58d987e94.png)
+
 
   
+![Screenshot from 2021-09-05 14-59-16](https://user-images.githubusercontent.com/51418366/132122532-9840c9a9-2fd3-4ebe-82e9-eed8e6ae2e1f.png)
